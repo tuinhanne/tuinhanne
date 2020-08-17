@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey 👋🏽, I'm Nguyen Thanh Nhan
 
-<!--
-**tuinhanne/tuinhanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
 
-Here are some ideas to get you started:
+**💼 Currently working as:** <a href="https://smartosc.com/" target="_blank"><b>SmartOSC</b></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**👨🏻‍💻 Languages and tools**
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/tuinhanne) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/tuinhanne) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/tuinhanne) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/tuinhanne) ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/tuinhanne) [![Vue.js](https://img.shields.io/badge/-Vuejs-grey?style=flat&logo=vue.js)](https://github.com/tuinhanne)  [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=Mongodb)](https://github.com/tuinhanne) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/tuinhanne)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/tuinhanne) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/tuinhanne)
+
+**🏆 Stats**
+
+![Nguyen Thanh Nhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuinhanne&hide=["stars"]&show_icons=true)
+
+![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true)
