@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
 
-**💼 Currently working as:** <a href="https://smartosc.com/" target="_blank"><b>SmartOSC</b></a>
+**💼 Currently working at:** <a href="https://smartosc.com/" target="_blank"><b>SmartOSC</b></a>
 
 **👨🏻‍💻 Languages and tools**
 
