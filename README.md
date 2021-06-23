@@ -7,7 +7,7 @@
 **👨🏻‍💻 Languages and tools**
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/tuinhanne) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/tuinhanne) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/tuinhanne) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/tuinhanne) ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)<br />
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/tuinhanne) [![Vue.js](https://img.shields.io/badge/-Vuejs-grey?style=flat&logo=vue.js)](https://github.com/tuinhanne)  [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=Mongodb)](https://github.com/tuinhanne) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/tuinhanne)<br />
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/tuinhanne) [![Vue](https://img.shields.io/badge/-Vuejs-grey?style=flat&logo=vue.js)](https://github.com/tuinhanne)  [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/tuinhanne)<br />
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/tuinhanne) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/tuinhanne)
 
 **🏆 Stats**
