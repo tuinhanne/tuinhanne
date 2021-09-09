@@ -1,11 +1,11 @@
 <div align="center">
 <h1>Hi 👋, I'm Nguyen Thanh Nhan</h1>
-A passionate backend developer from Vietnam
+A passionate software engineering from Vietnam
 </div>
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
 
 - 🌱 I’m currently learning **everything**
-- Reach me via tuinhanne@gmail.com
+- 💬 Reach me via tuinhanne@gmail.com
 <br />
 
 **💼 Currently working at:** <a href="https://gameloft.com/" target="_blank"><b>Gameloft</b></a>
