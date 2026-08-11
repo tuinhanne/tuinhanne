@@ -4,8 +4,8 @@ A passionate software engineering from Vietnam
 </div>
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
 
-- 🌱 I’m currently learning **everything**
-- 💬 Reach me via tuinhanne@gmail.com
+🌱 I’m currently learning **everything**
+💬 Reach me via tuinhanne@gmail.com
 <br />
 
 **💼 Currently working at:** <a href="https://gameloft.com/" target="_blank"><b>Gameloft</b></a>
@@ -15,34 +15,22 @@ A passionate software engineering from Vietnam
 👨‍💻 Backend <br />
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 💻 Frontend <br />
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 🗄 Database <br />
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 🚀 Deployment <br />
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -54,7 +42,14 @@ A passionate software engineering from Vietnam
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 **🏆 Stats**
+| Github [Stats](https://github.com/stats-organization/github-stats-extended) | Most Used Languages |
+|---|---|
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=tuinhanne&show=reviews&hide=stars&show_icons=true&hide_title=true&rank_icon=percentile&text_bold=false&title_color=1155aa&text_color=eeeeee&icon_color=66ccff&bg_color=00000000&hide_border=true" /><img alt="tuinhanne's github stats" src="https://github-stats-extended.vercel.app/api?username=tuinhanne&show=reviews&hide=stars&show_icons=true&hide_title=true&rank_icon=percentile&text_bold=false&title_color=1155aa&text_color=666666&icon_color=66ccff&hide_border=true" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=tuinhanne&hide_title=true&hide_border=true&layout=compact&text_color=eeeeee&bg_color=00000000"><img alt="tuinhanne's most used languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=tuinhanne&hide_title=true&hide_border=true&layout=compact"></picture> |
 
-![Nguyen Thanh Nhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuinhanne&hide=["stars"]&show_icons=true)
+<p align="center">
+  <a href="https://yhype.me"><img src="https://komarev.com/ghpvc/?username=ditman&color=66ccff" /></a>
+</p>
+
+![](https://hit.yhype.me/github/profile?account_id=66679347)
 
 ![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true)
